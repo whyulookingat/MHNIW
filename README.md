@@ -38,4 +38,4 @@ and the dataset is available at [*Microsoft Research*](https://www.microsoft.com
 ## References
 [1] Verstraeten, T., Bargiacchi, E., Libin, P. J. K., Helsen, J., Roijers, D. M., & Nowé, A. (2023). Multi-agent Thompson sampling for bandit applications with sparse neighbourhood structures.arXiv preprint arXiv:2303.04567
 
-[2] Qin, T., & Liu, T.-Y. (2013). *Introducing LETOR 4.0 Datasets*. arXiv preprint arXiv:1306.2597. http://arxiv.org/abs/1306.2597
+[2] Qin, T., & Liu, T.-Y. (2013). *Introducing LETOR 4.0 Datasets*. arXiv preprint arXiv:1306.2597.
