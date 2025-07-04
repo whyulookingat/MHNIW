@@ -6,7 +6,7 @@ Run the script using the command line:
 ```bash
 python your_script.py --data data/train.txt --agents 50 --rounds 4000
 ```
-This means we will use ## 50 agents to train 4,000 ## rounds on train.txt
+This means we will use 50 **agents** to train 4,000 **rounds** on train.txt
 the dataset is available at [*Microsoft Research*](https://www.microsoft.com/en-us/research/project/mslr/)[1]
 
 
