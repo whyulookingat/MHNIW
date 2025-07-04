@@ -21,6 +21,11 @@ root/
 Run the script using the command line:
 
 *e.g.*
+Firstly, install the prerequisites
+```bash
+pip install -r requirements.txt
+```
+Then, run the snippet
 ```bash
 python train.py --data data/train.txt --agents 50 --rounds 4000
 ```
