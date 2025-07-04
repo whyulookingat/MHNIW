@@ -21,6 +21,7 @@ root/
 Run the script using the command line:
 
 *e.g.*
+
 Firstly, install the prerequisites
 ```bash
 pip install -r requirements.txt
