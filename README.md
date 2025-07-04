@@ -31,7 +31,7 @@ Then, run the snippet
 python train.py --data data/train.txt --agents 50 --rounds 4000
 ```
 This means it will use 50 **agents** to train 4,000 **rounds** by **MHNIW** algorithm on train.txt
-the dataset is available at [*Microsoft Research*](https://www.microsoft.com/en-us/research/project/mslr/)[2]
+and the dataset is available at [*Microsoft Research*](https://www.microsoft.com/en-us/research/project/mslr/)[2]
 
 
 
