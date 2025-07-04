@@ -2,7 +2,7 @@
 
 ## Simulation Instructions
 
-This guide explains how to run the simulation of a **MHNIW** with configurable parameters.
+This guide explains how to run the simulation of **MHNIW** algorithm with configurable parameters.
 
 
 ## Structure
